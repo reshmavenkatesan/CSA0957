@@ -1,0 +1,28 @@
+1. write a java code to arrange given names in alphabetical order 
+2. write a java code to check a given string is palindrome or not without using library function 
+3. write a java code to count numbers of vowels and consonants in a given text 
+4. write a java code to count number of words and sentence in a given string
+5. write a java code to convert a given number of days in terms of years , weeks and days 
+MODEL QUESTIONS 
+1.write a java code that accepts an integer n and the computer value of n+nn+nnn
+2.write a java code to swap the first and last element of an array and create a new array
+3.write a java code to insert an element (specific position) in an array 
+4.write a java code to segregate all 0's on left side and all 1's on right side of the given array of 0's and 1's
+5.write a java code to calculate the tax for the given following condition 
+income<=250000,no tax
+income >=250000 and income <=500000,tax=10%
+income>500000 and income <=100000,tax=20%
+income>1000000,tax=30% 
+
+1. develop java code to display the parents including the following members
+   design a class to represents a bank account
+   
+
+2. write a java code to convert roman number to integers
+
+11/06/24
+1.write a java program to convert a given number of days in terms years, weeks and days.
+2.write a program to find number of students users in a college get the total users, staff users details from the client Note for every 3 staff user there is one non teaching staff user assigned as default.
+3.write a program to print number of factors and to print nth factor of the given number.
+4.to print n prime numbers after nth prime number 
+5.		  
